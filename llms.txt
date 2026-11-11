@@ -1,0 +1,18 @@
+# Tech and Support
+
+> IT infrastructure, managed IT, networking, cybersecurity, Microsoft 365, cloud, backup and AI automation services based in Jodhpur, Rajasthan, India, serving clients across India.
+
+Website: https://www.techandsupport.com/
+Contact: https://www.techandsupport.com/contact
+
+## Main pages
+- [Services](https://www.techandsupport.com/services)
+- [Managed IT Services](https://www.techandsupport.com/managed-it-services-jodhpur)
+- [Cybersecurity](https://www.techandsupport.com/cybersecurity-jodhpur)
+- [Network Solutions](https://www.techandsupport.com/network-solutions-jodhpur)
+- [Microsoft 365 and Cloud](https://www.techandsupport.com/microsoft-365-jodhpur)
+- [Backup and Disaster Recovery](https://www.techandsupport.com/backup-disaster-recovery-jodhpur)
+- [Industries](https://www.techandsupport.com/industries)
+- [About](https://www.techandsupport.com/about)
+
+This file is an optional machine-readable directory of public pages, not a guarantee of search indexing.
